@@ -6,4 +6,4 @@ Ekstensi dokumen yang sebaiknya digunakan setelah menggunakan templat ini adalah
 
 Untuk menggunakan templat ini, langkah yang mudah adalah dengan mengedit langsung konten dokumen ini. Templat ini memuat contoh penulisan naskah, kutipan, judul bab, judul sub bab, judul anak sub bab, tabel, gambar maupun persamaan. Untuk membuat format yang sama, maka komponen-komponen tersebut dapat disalin untuk ditempelkan di tempat yang diinginkan.
 
-Jika sudah selesai mengedit templat, silakan simpan dokumen anda dengan format `*.odt'
+Jika sudah selesai mengedit templat, silakan simpan dokumen anda dengan format `*.odt`
