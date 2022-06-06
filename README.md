@@ -15,3 +15,9 @@ Templat ini dibuat dengan menyesuaikan struktur laporan tugas akhir dan laporan 
 Untuk menggunakan templat `podoterus` ini, langkah paling yang mudah adalah dengan menyunting langsung konten dokumen templat ini.
 Untuk menyunting templat ini, pertama-tama bukalah berkas templat `*.ott` dengan menggunakan perangkat lunak LibreOffice Writer.
 Jika anda telah selesai menyunting templat ini, silakan simpan dokumen anda dengan menggunakan ekstensi `*.odt`.
+
+## Catatan:
+Terdapat tiga berkas podoterus yang dapat anda unduh sebagai berikut.
+1. `podoterus-v0.1.1q.pdf` : merupakan berkas pdf dari podoterus. Gunakan berkas ini untuk mendapatkan gambaran utuh bentuh akhir dari laporan tugas akhir maupun laporan kp.
+2. `podoterus-v0.1.1q.ott` : merupakan berkas templat podoterus dalam format templat LibreOffice Writer. Gunakan berkas ini sebagai templat untuk menyusun laporan tugas akhir maupun laporan kp.
+3. `podoterus-v01.1.n.dot`: merupakan berkas templat podoterus dalam format templat Microsoft Word. Template ini sudah ketinggalan dibandingkan dengan templat format LibreOffice Writer. **Disarankan untuk menggunakan berkas podoterus-v01.1q.ott** untuk penyusunan laporan tugas akhir maupun laporan kp.
